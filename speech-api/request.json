@@ -1,0 +1,9 @@
+{
+    "config": {
+        "encoding":"ENCODING_UNSPECIFIED",
+        "languageCode": "zh-TW"
+    },
+    "audio": {
+        "uri":"gs://qwiklabs-gcp-22f9f163db32858c/達康.come漫才《選舉騎士》.mp3"
+    }
+  }

@@ -1,0 +1,207 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01dk8s",
+          "description": "Powdered sugar",
+          "score": 0.9861496,
+          "topicality": 0.9861496
+        },
+        {
+          "mid": "/m/01wydv",
+          "description": "Beignet",
+          "score": 0.9565117,
+          "topicality": 0.9565117
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.9424965,
+          "topicality": 0.9424965
+        },
+        {
+          "mid": "/m/0hnyx",
+          "description": "Pastry",
+          "score": 0.8173416,
+          "topicality": 0.8173416
+        },
+        {
+          "mid": "/m/02q08p0",
+          "description": "Dish",
+          "score": 0.8076026,
+          "topicality": 0.8076026
+        },
+        {
+          "mid": "/m/01ykh",
+          "description": "Cuisine",
+          "score": 0.79036003,
+          "topicality": 0.79036003
+        },
+        {
+          "mid": "/m/03nsjgy",
+          "description": "Kourabiedes",
+          "score": 0.77726763,
+          "topicality": 0.77726763
+        },
+        {
+          "mid": "/m/06gd3r",
+          "description": "Angel wings",
+          "score": 0.73792106,
+          "topicality": 0.73792106
+        },
+        {
+          "mid": "/m/06x4c",
+          "description": "Sugar",
+          "score": 0.71921736,
+          "topicality": 0.71921736
+        },
+        {
+          "mid": "/m/01zl9v",
+          "description": "Zeppole",
+          "score": 0.7111677,
+          "topicality": 0.7111677
+        }
+      ],
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0105pbj4",
+            "score": 0.8892,
+            "description": "Google Cloud Platform"
+          },
+          {
+            "entityId": "/m/02y_9m3",
+            "score": 0.356,
+            "description": "Cloud computing"
+          },
+          {
+            "entityId": "/m/0z5n",
+            "score": 0.3117,
+            "description": "Application programming interface"
+          },
+          {
+            "entityId": "/m/0c01xdn",
+            "score": 0.3108,
+            "description": "Google Storage"
+          },
+          {
+            "entityId": "/t/24bjj59_jbj9f",
+            "score": 0.3098
+          },
+          {
+            "entityId": "/m/03nsxd",
+            "score": 0.2816,
+            "description": "Representational state transfer"
+          },
+          {
+            "entityId": "/m/01hyh_",
+            "score": 0.2736,
+            "description": "Machine learning"
+          },
+          {
+            "entityId": "/m/045c7b",
+            "score": 0.2382,
+            "description": "Google"
+          },
+          {
+            "entityId": "/m/07kg1sq",
+            "score": 0.2372,
+            "description": "Encapsulation"
+          },
+          {
+            "entityId": "/m/0brhx",
+            "score": 0.2318,
+            "description": "Speech synthesis"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro-ja/img/b05d9534e547f5ee.png"
+          },
+          {
+            "url": "https://storage.googleapis.com/aju-dev-demos-codelabs/images/vision_donuts_sm.jpeg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://kiosk-dot-codelabs-site.appspot.com/codelabs/cloud-vision-intro/index.html?index=..%2F..cloudai",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://kiosk-dot-codelabs-site.appspot.com/codelabs/cloud-vision-intro/img/b05d9534e547f5ee.png"
+              }
+            ]
+          },
+          {
+            "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro/index.html",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro/img/b05d9534e547f5ee.png"
+              }
+            ]
+          },
+          {
+            "url": "https://github.com/GoogleCloudPlatform/cloud-shell-tutorials/pull/8/files",
+            "pageTitle": "Text-to-speech API intro tutorial · Issue #8 · GoogleCloudPlatform ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://storage.googleapis.com/aju-dev-demos-codelabs/images/vision_donuts_sm.jpeg"
+              }
+            ]
+          },
+          {
+            "url": "http://ihc2015.info/skin/codelabs-google-cloud-storage.akp",
+            "pageTitle": "Codelabs Google Cloud Storage | Pics | Download | - Ihc2015.info",
+            "fullMatchingImages": [
+              {
+                "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro/img/b05d9534e547f5ee.png"
+              }
+            ]
+          },
+          {
+            "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro-ja/index.html?index=..%2F..next17-tok",
+            "pageTitle": "Cloud Vision API で画像内の物体や顔、ランドマークを検出する",
+            "fullMatchingImages": [
+              {
+                "url": "https://codelabs.developers.google.com/codelabs/cloud-vision-intro-ja/img/b05d9534e547f5ee.png"
+              }
+            ]
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s3-media2.fl.yelpcdn.com/bphoto/oid0KchdCqlSqZzpznCEoA/o.jpg"
+          },
+          {
+            "url": "https://www.ticonsigliounposticino.it/wp-content/uploads/2015/03/IMG_0835.jpg"
+          },
+          {
+            "url": "https://scontent-ams3-1.cdninstagram.com/vp/d27c08ab2ed5c4c5603845158a5d8173/5D38ADDA/t51.2885-15/sh0.08/e35/s640x640/44431649_350780285496399_2581683182520609034_n.jpg?_nc_ht=scontent-ams3-1.cdninstagram.com"
+          },
+          {
+            "url": "https://spoilednyc.com//2016/02/16/beignetszzzzzz-852.jpg"
+          },
+          {
+            "url": "https://d1wa2w8kzcjjxv.cloudfront.net/2015/05/powdered-sugar.jpg"
+          },
+          {
+            "url": "https://fiercefork.com/wp-content/uploads/2016/07/13636212_1353583888052533_1934542753_n.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/36/c8/43/photo1jpg.jpg"
+          },
+          {
+            "url": "https://image.shutterstock.com/image-photo/beignets-new-orleans-260nw-1280610157.jpg"
+          }
+        ],
+        "bestGuessLabels": [
+          {
+            "label": "powdered sugar"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json  https://vision.googleapis.com/v1/images:annotate?key=AIzaSyAX4xXGiQchhKwZ95-7Y3sHTIlN2R3c-n4 -o response.json
